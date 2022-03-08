@@ -1,2 +1,4 @@
-# 100daysLearning_2022
-2022년도 1회차 100일 학습 기록
+
+* SwiftUI - https://www.hackingwithswift.com/100/swiftui
+* flutter - udemy, youtube
+* Machine Learning - www.boostcourse.org/ds101
