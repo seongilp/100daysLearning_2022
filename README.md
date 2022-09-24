@@ -6,3 +6,6 @@
 # Day 1
 * https://lym.readthedocs.io/en/latest/index.html #Linux
 * https://heumsi.github.io/hands-on-terraform-with-gcp/01-getting-started/01-init-project/ #TerraForm
+
+# Day 2
+* https://news.hada.io/topic?id=7469
