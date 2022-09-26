@@ -9,3 +9,6 @@
 
 # Day 2
 * https://news.hada.io/topic?id=7469
+
+# Day 3
+* https://news.hada.io/topic?id=7478 Solo Dev
