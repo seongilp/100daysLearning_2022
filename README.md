@@ -16,3 +16,6 @@
 # Day 4
 * https://news.hada.io/topic?id=7486 My SaaS
 * https://news.hada.io/topic?id=7495 McMaster #ecommerce
+
+# Day 5
+* https://news.hada.io/topic?id=7496 macOS Security
