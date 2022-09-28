@@ -12,3 +12,6 @@
 
 # Day 3
 * https://news.hada.io/topic?id=7478 Solo Dev
+
+# Day 4
+* https://news.hada.io/topic?id=7486 My SaaS
