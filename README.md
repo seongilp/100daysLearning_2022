@@ -19,3 +19,6 @@
 
 # Day 5
 * https://news.hada.io/topic?id=7496 macOS Security
+
+# Day 6
+* https://github.com/paragonie/awesome-appsec App Sec
