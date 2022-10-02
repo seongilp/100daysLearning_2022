@@ -22,3 +22,6 @@
 
 # Day 6
 * https://github.com/paragonie/awesome-appsec App Sec
+
+# Day 7
+* https://jsoncrack.com/ 
