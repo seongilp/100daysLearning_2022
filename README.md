@@ -25,3 +25,6 @@
 
 # Day 7
 * https://jsoncrack.com/ 
+
+# Day 8
+* https://news.hada.io/topic?id=7522 Web Report
