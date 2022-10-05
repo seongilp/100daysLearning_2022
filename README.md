@@ -28,3 +28,6 @@
 
 # Day 8
 * https://news.hada.io/topic?id=7522 Web Report
+
+# Day 9
+* https://news.hada.io/topic?id=7543 SteamPie
