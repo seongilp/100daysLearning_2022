@@ -31,3 +31,6 @@
 
 # Day 9
 * https://news.hada.io/topic?id=7543 SteamPie
+
+# Day 10
+* https://news.hada.io/topic?id=7550 Python
