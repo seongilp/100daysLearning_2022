@@ -34,3 +34,6 @@
 
 # Day 10
 * https://news.hada.io/topic?id=7550 Python
+
+# Day 11
+* https://news.hada.io/topic?id=7567 Sharing
