@@ -37,3 +37,6 @@
 
 # Day 11
 * https://news.hada.io/topic?id=7567 Sharing
+
+# Day 12
+* https://hackernewsbooks.com/top-business-books-from-interviews-with-600-founders-and-investors
