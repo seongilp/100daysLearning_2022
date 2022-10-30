@@ -40,3 +40,4 @@
 
 # Day 12
 * https://hackernewsbooks.com/top-business-books-from-interviews-with-600-founders-and-investors
+* https://tech.kakaoenterprise.com/154?category=882488 k8s
