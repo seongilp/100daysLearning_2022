@@ -42,3 +42,6 @@
 * https://hackernewsbooks.com/top-business-books-from-interviews-with-600-founders-and-investors
 * https://tech.kakaoenterprise.com/154?category=882488 k8s
 * https://pyrasis.com/jHLsAlwaysUpToDateDocker docker
+
+# Day 13
+* https://blog.devops.dev/kubernetes-architecture-easy-explained-651f64d5b401?gi=83d35741081c k8s
