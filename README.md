@@ -45,3 +45,4 @@
 
 # Day 13
 * https://blog.devops.dev/kubernetes-architecture-easy-explained-651f64d5b401?gi=83d35741081c k8s
+* https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
