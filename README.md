@@ -50,3 +50,4 @@
 # Day 13
 * https://toss.tech/article/8-writing-principles-of-toss?fbclid=IwAR1cpAdKSV9jvBxPtl7tYAuXZcRaXN3N1t6rU72S8cAeJp44rT3CxuGVLvo 
 * http://introtodeeplearning.com MIT Deep Learning
+* https://www.gentlydownthe.stream Kafka
