@@ -46,3 +46,7 @@
 # Day 13
 * https://blog.devops.dev/kubernetes-architecture-easy-explained-651f64d5b401?gi=83d35741081c k8s
 * https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
+
+# Day 13
+* https://toss.tech/article/8-writing-principles-of-toss?fbclid=IwAR1cpAdKSV9jvBxPtl7tYAuXZcRaXN3N1t6rU72S8cAeJp44rT3CxuGVLvo 
+* http://introtodeeplearning.com MIT Deep Learning
