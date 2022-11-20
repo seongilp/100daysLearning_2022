@@ -51,3 +51,7 @@
 * https://toss.tech/article/8-writing-principles-of-toss?fbclid=IwAR1cpAdKSV9jvBxPtl7tYAuXZcRaXN3N1t6rU72S8cAeJp44rT3CxuGVLvo 
 * http://introtodeeplearning.com MIT Deep Learning
 * https://www.gentlydownthe.stream Kafka
+
+# Day 14
+* https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/
+* https://golang.ch/an-open-source-golang-based-knowledge-management-and-collaboration-system/
